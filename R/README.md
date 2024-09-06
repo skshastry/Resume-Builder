@@ -27,7 +27,7 @@ This online resume builder assists job searchers in building a professional resu
 <h3><b>Termwork Project</b></h3>
 
 <!-- [Resume Builder](https://github.com/R-Ayush777/WDW_Project_CE104_CE108_CE144) -->
-_**Created by :-**_ <br>[Snehit Krishna Shastry G](https://github.com/skshastry)<br>[Sharath H K]<br>[Thanish P Shetty]
+_**Created by :-**_ <br>[Snehit Krishna Shastry G]<br>[Sharath H K]<br>[Thanish P Shetty]
 
 ---
 
