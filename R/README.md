@@ -27,33 +27,13 @@ This online resume builder assists job searchers in building a professional resu
 <h3><b>Termwork Project</b></h3>
 
 <!-- [Resume Builder](https://github.com/R-Ayush777/WDW_Project_CE104_CE108_CE144) -->
-_**Created by :-**_ <br>[Ayush Rudani](https://github.com/ayush-rudani)<br>[Devansh Shah](https://github.com/shahdevansh28)<br>[Murtaza Mister](https://github.com/MurtazaMister)
+_**Created by :-**_ <br>[Snehit Krishna Shastry G](https://github.com/skshastry)<br>[Sharath H K]<br>[Thanish P Shetty]
 
 ---
-
-![image](https://github.com/ayush-rudani/Resume-Builder/assets/78534043/7e28f150-1e37-4a58-b400-77a07ebfb911)
-
-![image](https://github.com/ayush-rudani/Resume-Builder/assets/78534043/3204455c-d0d3-43b4-aaae-29c7b0d8da57)
-
-![image](https://github.com/ayush-rudani/Resume-Builder/assets/78534043/bc1dae56-eb97-45c6-96cb-144566b51753)
-
-![image](https://github.com/ayush-rudani/Resume-Builder/assets/78534043/2bc5c1ab-5ccc-4757-a5ca-7dffbadaed4b)
 
 
 ---
 
-## Watch Demo Video :-
-
-(Project Demo Link)
-"[Resume Builder](https://drive.google.com/file/d/1EuOOZCdjE9vxb4UhVG27ybTMskUWizxt/view?usp=sharing)"
-
-<!-- ![Home](ResumeBuilder.gif) -->
-
-<br>
-
-<!-- ## Contributors -->
-<a href="https://github.com/R-Ayush777/WDW_Project_CE104_CE108_CE144/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=R-Ayush777/WDW_Project_CE104_CE108_CE144" />
 </a>
 
 <!-- <b><h3>Video Link : </b>https://drive.google.com/file/d/1X8XSruU315Ziyao32fiOv2zgZ8U-nqOP/view</h3> -->
